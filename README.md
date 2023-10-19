@@ -1,1 +1,6 @@
 ## [DVD](https://tacoscience32.github.io/dvd/)
+## [DVD 5](https://tacoscience32.github.io/dvd/5)
+## [DVD 4](https://tacoscience32.github.io/dvd/4)
+## [DVD 3](https://tacoscience32.github.io/dvd/3)
+## [DVD 2](https://tacoscience32.github.io/dvd/2)
+## [DVD 1](https://tacoscience32.github.io/dvd/1)
